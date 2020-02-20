@@ -66,6 +66,7 @@ body {
     text-align: center;
     font-size: .75em;
     background-color: var(--lightest-grey);
+    border-bottom: 2px solid #dddddd;
 }
 
 
