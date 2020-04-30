@@ -3,11 +3,11 @@
     "I let a small mishap affect the entire rest of my day": {
       "x": 0,
       "y": 0,
-      "strongly agree": "question4_answer1.png",
-      "agree": "question4_answer2.png",
-      "neutral": "question4_answer3.png",
-      "disagree": "question4_answer4.png",
-      "strongly disagree": "question4_answer5.png",
+      "strongly agree": "question4_answer1_2.png",
+      "agree": "question4_answer2_2.png",
+      "neutral": "question4_answer3_2.png",
+      "disagree": "question4_answer4_2.png",
+      "strongly disagree": "question4_answer5_2.png",
       "is_text": false
     },
     "I often snooze to prolong starting my day": {
