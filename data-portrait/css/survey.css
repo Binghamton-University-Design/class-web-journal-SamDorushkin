@@ -4,7 +4,7 @@
 
 /* vars */
 :root {
-  --background-color: #000000;
+  --background-color: #FFFFFF;
   --link-color: #E2E3E3;
   --alt-link-color: #CEDC00;
   --body-color: #111;
@@ -57,7 +57,7 @@ body {
 
 #portrait-info {
   width: 300px;
-  color: #fff;
+  color: #000000;
 }
 
 #portrait-info a {
