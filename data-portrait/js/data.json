@@ -73,7 +73,18 @@
       "is_text": false
     }
   },
-  "data": [{
+  "data": [
+    {
+      "I let a small mishap affect the entire rest of my day": "neutral",
+      "I often snooze to prolong starting my day": "sometimes",
+      "I wake up and see the day optimistically": "neutral",
+      "I snooze because I allotted time to do so": "always",
+      "I break for lunch with no interruptions": "sometimes",
+      "I stick to a routine/schedule daily": "false",
+      "I stop and praise myself throughout the day": "rarely",
+      "I need a \"wind down\" period after every day": "agree"
+    },
+    {
       "I let a small mishap affect the entire rest of my day": "neutral",
       "I often snooze to prolong starting my day": "never",
       "I wake up and see the day optimistically": "neutral",
@@ -246,32 +257,22 @@
     {
       "I let a small mishap affect the entire rest of my day": "agree",
       "I often snooze to prolong starting my day": "sometimes",
-      "I wake up and see the day optimistically": "neutral",
-      "I snooze because I allotted time to do so": "always",
-      "I break for lunch with no interruptions": "sometimes",
-      "I stick to a routine/schedule daily": "true",
-      "I stop and praise myself throughout the day": "rarely",
-      "I need a \"wind down\" period after every day": "neutral"
-    },
-    {
-      "I let a small mishap affect the entire rest of my day": "neutral",
-      "I often snooze to prolong starting my day": "sometimes",
-      "I wake up and see the day optimistically": "neutral",
-      "I snooze because I allotted time to do so": "alwyas",
-      "I break for lunch with no interruptions": "sometimes",
-      "I stick to a routine/schedule daily": "false",
-      "I stop and praise myself throughout the day": "rarely",
-      "I need a \"wind down\" period after every day": "agree"
-    },
-    {
-      "I let a small mishap affect the entire rest of my day": "agree",
-      "I often snooze to prolong starting my day": "sometimes",
       "I wake up and see the day optimistically": "agree",
       "I snooze because I allotted time to do so": "sometimes",
       "I break for lunch with no interruptions": "never",
       "I stick to a routine/schedule daily": "true",
       "I stop and praise myself throughout the day": "sometimes",
       "I need a \"wind down\" period after every day": "strongly agree"
+    },
+    {
+      "I let a small mishap affect the entire rest of my day": "agree",
+      "I often snooze to prolong starting my day": "sometimes",
+      "I wake up and see the day optimistically": "neutral",
+      "I snooze because I allotted time to do so": "always",
+      "I break for lunch with no interruptions": "sometimes",
+      "I stick to a routine/schedule daily": "true",
+      "I stop and praise myself throughout the day": "rarely",
+      "I need a \"wind down\" period after every day": "neutral"
     }
   ]
 }
