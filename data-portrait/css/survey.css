@@ -63,13 +63,13 @@ body {
 #portrait-info a {
   transition: color, background-color .35s ease-in-out;
   padding: 3px 5px;
-  color: #FFF5EE;
+  color: #FFE4E1;
   text-decoration: none;
   background-color: #708090;
 }
 
 #portrait-info a:hover {
-  background-color: #FFF5EE;
+  background-color: #FFE4E1;
   color: #708090;
 }
 
